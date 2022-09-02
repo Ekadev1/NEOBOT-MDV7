@@ -14,8 +14,8 @@ let balance = JSON.parse(fs.readFileSync('./database/deposit/saldo.json'));
 
 exports.menuall = (sender, prefix, pushname, ucapanWaktu, tanggal, jam, isOwner) => {
 return `*OTHERS*
- • bot
- • wame
+ 
+
 
 *MAIN MENU*
  • ${prefix}id
@@ -298,12 +298,12 @@ return `*OTHERS*
  • ${prefix}quotesanime
 
 *THANKS TO*
-_> Fatih Arridho_
-_> Rwtone / irfan_
-_> Rimurubotz_
-_> Api-Lexxy_
-_> Yogi-Pw_
-_> My Subscribers_
-_> Lexxy Official_
+_> Eka Putra
+_> Siska Yulianti
+_> Wafiq Nida
+_> Lord Panjie
+_> 
+_> 
+_> 
 `
 }
